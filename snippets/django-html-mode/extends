@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: extends
+# key: extends
+# contributor: Drunkblues
+# --
+{% extends '${1:base.html}' %}

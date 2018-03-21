@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: integer
+# key: integer
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.IntegerField(${2:blank=True, null=True})

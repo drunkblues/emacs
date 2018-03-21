@@ -1,0 +1,9 @@
+# name: adds
+# key: adds
+# --
+INCLUDES = $1
+LDADD = $2
+LDFLAGS = $3
+LIBS = $4
+EXTRA_DIST = $5
+$0

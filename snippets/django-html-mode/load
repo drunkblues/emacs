@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: load
+# key: load
+# contributor: Drunkblues
+# --
+{% load $1 %}

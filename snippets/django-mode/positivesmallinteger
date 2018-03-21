@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: positivesmallinteger
+# key: positivesmallinteger
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.PositiveSmallIntegerField(${2:blank=True, null=True})

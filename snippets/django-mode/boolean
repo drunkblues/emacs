@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: boolean
+# key: boolean
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.BooleanField(${2:default=True})

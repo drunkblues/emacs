@@ -1,0 +1,4 @@
+# name: SUBDIRS
+# key: sub
+# --
+SUBDIRS = $0

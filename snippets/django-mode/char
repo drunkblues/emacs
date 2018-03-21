@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: char
+# key: char
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.CharField(${2:blank=True, }max_length=${3:255})

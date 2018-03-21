@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: include
+# key: include
+# contributor: Drunkblues
+# --
+{% include ${1:"$2"} %}

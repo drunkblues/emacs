@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+# name: intermediate
+# key: intermediate
+# contributor: Drunkblues
+# --
+class ${1:Modelname}(models.Model):
+	"""${2:($1 description)}"""
+	${3:target_field_name} = models.ForeignKey(${4:TargetModel})
+	${5:source_field_name} = models.ForeignKey(${6:SourceModel})
+	$0

@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: slug
+# key: slug
+# contributor: Drunkblues
+# --
+${1:slug} = models.SlugField()

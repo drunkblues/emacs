@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: auto
+# key: auto
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.AutoField()

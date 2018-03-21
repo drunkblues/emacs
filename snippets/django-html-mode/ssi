@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: ssi
+# key: ssi
+# contributor: Drunkblues
+# --
+{% ssi $1 ${2:parsed} %}

@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: firstof
+# key: firstof
+# contributor: Drunkblues
+# --
+{% firstof $1 %}

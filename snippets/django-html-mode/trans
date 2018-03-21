@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: trans
+# key: trans
+# contributor: Drunkblues
+# --
+{% trans "${1:string to translate}" %}

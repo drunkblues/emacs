@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: now
+# key: now
+# contributor: Drunkblues
+# --
+{% now "$1" %}

@@ -1,0 +1,4 @@
+# name: lib_LIBRARIES
+# key: lib
+# --
+lib_LIBRARIES = $0

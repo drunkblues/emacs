@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: nullboolean
+# key: nullboolean
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.NullBooleanField(${2:default=True})

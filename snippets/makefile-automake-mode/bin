@@ -1,0 +1,4 @@
+# name: bin_PROGRAMS
+# key: bin
+# --
+bin_PROGRAMS = $0

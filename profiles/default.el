@@ -1,0 +1,13 @@
+(load-conf-file "basic")
+(load-conf-file "color-theme")
+(load-conf-file "easypg")
+(load-conf-file "dired")
+(load-conf-file "dired-ext")
+(load-conf-file "hippie-expand")
+(load-conf-file "auto-complete")
+(load-conf-file "yasnippet")
+(load-conf-file "fonts")
+
+(when (eq system-type 'darwin)
+  (load-conf-file "mac")
+  )

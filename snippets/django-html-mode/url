@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: url
+# key: url
+# contributor: Drunkblues
+# --
+{% url $1 as $2 %}

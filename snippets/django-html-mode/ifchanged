@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: ifchanged
+# key: ifchanged
+# contributor: Drunkblues
+# --
+{% ifchanged $1%}$2{% endifchanged %}

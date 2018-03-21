@@ -1,0 +1,4 @@
+# name: xxx_SOURCES
+# key: src
+# --
+$1_SOURCES = $0

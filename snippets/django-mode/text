@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: text
+# key: text
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.TextField(${2:blank=True})

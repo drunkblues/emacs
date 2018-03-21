@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: super
+# key: super
+# contributor: Drunkblues
+# --
+{{ block.super }}

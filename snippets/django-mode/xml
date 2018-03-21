@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: xml
+# key: xml
+# contributor: Drunkblues
+# --
+${1:FIELDNAME} = models.XMLField(schema_path=${2:/path/to/RelaxNG}${3:, blank=True})

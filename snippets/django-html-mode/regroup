@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: regroup
+# key: regroup
+# contributor: Drunkblues
+# --
+{% regroup $1 by $2 as $3 %}

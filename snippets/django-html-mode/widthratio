@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: widthratio
+# key: widthratio
+# contributor: Drunkblues
+# --
+{% widthratio ${1:this_value} ${2:max_value} ${3:100} %}

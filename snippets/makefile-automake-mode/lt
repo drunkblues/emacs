@@ -1,0 +1,4 @@
+# name: lib_LTLIBRARIES
+# key: lt
+# --
+lib_LTLIBRARIES = $0

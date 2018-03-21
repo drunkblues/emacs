@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# name: cycle
+# key: cycle
+# contributor: Drunkblues
+# --
+{% cycle $1 as $2 %}
