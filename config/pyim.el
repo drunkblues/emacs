@@ -1,3 +1,4 @@
+(add-lib-path "xr")
 (add-lib-path "emacs-async")
 (add-lib-path "pyim")
 (add-lib-path "pyim-basedict")

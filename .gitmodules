@@ -46,3 +46,6 @@
 [submodule "libs/web-beautify"]
 	path = libs/web-beautify
 	url = https://github.com/yasuyk/web-beautify.git
+[submodule "libs/xr"]
+	path = libs/xr
+	url = https://github.com/mattiase/xr.git
