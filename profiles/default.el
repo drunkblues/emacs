@@ -6,7 +6,7 @@
 (load-conf-file "hippie-expand")
 (load-conf-file "auto-complete")
 (load-conf-file "yasnippet")
-;;(load-conf-file "fonts")
+(load-conf-file "fonts")
 
 (when (eq system-type 'darwin)
   (load-conf-file "mac")

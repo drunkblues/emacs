@@ -40,9 +40,6 @@
 [submodule "libs/pyim-basedict"]
 	path = libs/pyim-basedict
 	url = https://github.com/tumashu/pyim-basedict.git
-[submodule "libs/pyim-greatdict"]
-	path = libs/pyim-greatdict
-	url = https://github.com/tumashu/pyim-greatdict.git
 [submodule "libs/web-beautify"]
 	path = libs/web-beautify
 	url = https://github.com/yasuyk/web-beautify.git
